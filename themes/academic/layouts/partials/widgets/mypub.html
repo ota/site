@@ -1,0 +1,28 @@
+{{/* MyList Widget by Kengo Ohta */}}
+{{ $ := .root }}
+{{ $page := .page }}
+
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>{{ with $page.Title }}{{ . | markdownify | emojify }}{{ end }}</h1>
+    {{ with $page.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
+  </div>
+  <div class="col-12 col-lg-8">
+    <h3>国際会議（査読あり）</h3>
+    {{ with $page.Params.internationals }}
+    <ul>
+      {{ range . }}
+      <li>{{ . | markdownify | emojify }}</li>
+      {{ end }}
+    </ul>
+    {{ end }}
+    <h3>論文誌（査読あり）</h3>
+    {{ with $page.Params.journals }}
+    <ul>
+      {{ range . }}
+      <li>{{ . | markdownify | emojify }}</li>
+      {{ end }}
+    </ul>
+    {{ end }}
+  </div>
+</div>

@@ -1,0 +1,3 @@
+# コンテンツの追加方法
+~/site/themes/academic/layouts/partials/widgets/ にhtmlを追加
+~/site/content/ja/home/ にmdを追加
