@@ -8,6 +8,7 @@ title: "主な研究業績"
 subtitle: ""
 
 journals:
+- Kego Ohta，Ryota Nishimura，Norihide Kitaoka, "Response Type Selection for Chat-like Spoken Dialog Systems Based on LSTM and Multi-task Learning," SPEECH COMMUNICAGTION, (accepted), 2021.
 - 坪井泰士, 太田健吾,『クラブ活動におけるジェネリックスキル養成の検証』,工学教育,vol.66,No.2,pp. 12-17,2018.
 - 太田健吾, 土屋雅稔, 中川聖一, 『ポーズを考慮した話し言葉言語モデルの構築』, 情報処理学会論文誌，情報処理学会，Vol.53, No.2, pp.889-900, 2012年.
 - 太田健吾, 土屋雅稔, 中川聖一, 『フィラー予測モデルに基づく話し言葉言語モデルの構築』, 情報処理学会論文誌，情報処理学会，Vol.50, No.2, pp.477-487, 2009年.
