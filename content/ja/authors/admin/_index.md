@@ -34,6 +34,8 @@ education:
     year: 2014年4月 - 2018年3月
   - course: 阿南工業高等専門学校 創造技術工学科 講師
     year: 2018年4月 - 2020年3月
+  - course: 豊橋技術科学大学 情報・知能工学系 講師
+    year: 2020年4月 - 2021年3月
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -68,7 +70,6 @@ user_groups:
 - Visitors
 ---
 
-- [豊橋技術科学大学](https://www.tut.ac.jp) [情報・知能工学系](https://www.cs.tut.ac.jp) 講師  
-（[阿南工業高等専門学校](http://www.anan-nct.ac.jp) からの人事交流による）
-  - [研究室 Web ページ](https://sites.google.com/site/a5gistokushimau/)  
+- [阿南工業高等専門学校](http://www.anan-nct.ac.jp) 創造技術工学科 情報コース 講師
+  - [豊橋技術科学大学 北岡研究室](https://sites.google.com/site/a5gistokushimau/)  
 - [株式会社Harmonized Interactions](http://www.harmonized-interactions.com/) 取締役
