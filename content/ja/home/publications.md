@@ -8,7 +8,7 @@ title: "主な研究業績"
 subtitle: ""
 
 journals:
-- Kego Ohta，Ryota Nishimura，Norihide Kitaoka, "Response Type Selection for Chat-like Spoken Dialog Systems Based on LSTM and Multi-task Learning," SPEECH COMMUNICAGTION, (accepted), 2021.
+- Kego Ohta，Ryota Nishimura，Norihide Kitaoka, "[Response Type Selection for Chat-like Spoken Dialog Systems Based on LSTM and Multi-task Learning](https://doi.org/10.1016/j.specom.2021.07.003)", SPEECH COMMUNICAGTION, vol. 133, pp. 23-30, 2021.
 - 坪井泰士, 太田健吾,『クラブ活動におけるジェネリックスキル養成の検証』,工学教育,vol.66,No.2,pp. 12-17,2018.
 - 太田健吾, 土屋雅稔, 中川聖一, 『ポーズを考慮した話し言葉言語モデルの構築』, 情報処理学会論文誌，情報処理学会，Vol.53, No.2, pp.889-900, 2012年.
 - 太田健吾, 土屋雅稔, 中川聖一, 『フィラー予測モデルに基づく話し言葉言語モデルの構築』, 情報処理学会論文誌，情報処理学会，Vol.50, No.2, pp.477-487, 2009年.
@@ -16,6 +16,7 @@ journals:
 
 internationals:
 - Kengo Ohta, Ryota Nishimura, Norihide Kitaoka, "[Type of response selection utilizing user utterance word sequence, LSTM and multi-task learning for chat-like spoken dialog systems](https://ieeexplore.ieee.org/document/9023335)", Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC), pp.1051-1055, 2019.
+- Hirokazu Akadomari, Kosuke Ishikawa, Yosuke Kobayashi, Kengo Ohta, Junichi Kishigami, "[HMM-based Speech Synthesizer for EasilyUnderstandable Speech Broadcasting](https://ieeexplore.ieee.org/abstract/document/8574710)",  IEEE Global Conference on Consumer Electronics (GCCE), pp. 749-750, 2018,
 - Tomoya Kashifuku, Kengo Ohta, Susumu Yoshida, Fuminori Matsuura,  "Classification of Dance Motions based on Feature Points Extraction", RISP International Workshop on Nonlinear Circuits, Communications and Signal Processing(NCSP), 5PM2-2-5, 2018.
 - Kengo Ohta, Rikito Marumoto, Ryota Nishimura, Norihide Kitaoka, "[Selecting Type of Response for Chat-like Spoken Dialogue Systems Based on Acoustic Features of User Utterances](https://ieeexplore.ieee.org/document/8282230)", Asia-Pacific Signal and Information Processing Association (APSIPA), pp.1248-1252, 2017.
 - Yosuke Kobayashi, Kosuke Ishikawa, Kengo Ohta, Jay Kishigami, "[Semantic Parser for Easy Understandable Speech Broadcasting](https://ieeexplore.ieee.org/document/8229362)", IEEE Global Conference on Consumer Electronics (GCCE), 2017.
