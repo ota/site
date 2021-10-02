@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-- [阿南工業高等専門学校](http://www.anan-nct.ac.jp) 創造技術工学科 情報コース 講師
+- [阿南工業高等専門学校](http://www.anan-nct.ac.jp) 創造技術工学科 情報コース 准教授
   - [豊橋技術科学大学 北岡研究室](https://sites.google.com/site/a5gistokushimau/)  
 - [株式会社Harmonized Interactions](http://www.harmonized-interactions.com/) 取締役

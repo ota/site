@@ -14,11 +14,11 @@ role: Lecturer
 
 # Organizations/Affiliations
 organizations:
-- name: Toyohashi University of Technology
-  url: "https://www.tut.ac.jp"
+- name: National Institute of Technology, Anan College.
+  url: "https://www.anan-nct.ac.jp"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
 - Spoken Language Processing
@@ -69,7 +69,9 @@ user_groups:
 - Visitors
 ---
 
-Kengo Ohta is a lecturer at the department of computer science and engineering, Toyohashi University of Technology.
+Kengo Ohta is an associate professor of the National Institute of Technology, Anan College.
 He recerived his B.E. degree in 2007, M.E. degree in 2009, and Ph.D. degree in Engineering in 2013, from Toyohashi University of Technology, respectively.
 From 2011 to 2013, he was a research fellow of Japan Society for Promotion of Science (DC2),
 From 2013 to 2018, he was an assistant professor of the National Institute of Technology, Anan College.
+From 2018 to 2020, he was a lecturer of the National Institute of Technology, Anan College.
+From 2020 to 2021, he was a lecturer at the department of computer science and engineering, Toyohashi University of Technology.
